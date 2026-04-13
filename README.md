@@ -5,7 +5,7 @@ Active training block · Jan–Mar 2025
 | Week | Topic | SQL Problems | Project | Status |
 |------|-------|-------------|---------|--------|
 | 1 | Python & ETL | 18 | Superstore ETL Pipeline | ✅ Complete |
-| 2 | Advanced SQL | — | — | ⬜ Pending |
+| 2 | Advanced SQL | 25 | SQL Analytics Suite | ✅ Complete |
 | 3 | Apache Airflow | — | — | ⬜ Pending |
 | 4 | PySpark | — | — | ⬜ Pending |
 | 5 | dbt + Cloud | — | — | ⬜ Pending |
