@@ -1,13 +1,19 @@
 {
-  "last_updated": "2026-04-13T22:41:56.035Z",
+  "last_updated": "2026-04-13T22:44:49.872Z",
   "weeks_complete": [
     {
       "week": 1,
       "topic": "Python & ETL",
       "sql_problems": 18,
       "project": "Superstore ETL Pipeline"
+    },
+    {
+      "week": 2,
+      "topic": "Advanced SQL",
+      "sql_problems": 25,
+      "project": "SQL Analytics Suite"
     }
   ],
-  "total_sql": 18,
-  "total_projects": 1
+  "total_sql": 43,
+  "total_projects": 2
 }
