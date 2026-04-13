@@ -1,0 +1,13 @@
+{
+  "last_updated": "2026-04-13T22:41:56.035Z",
+  "weeks_complete": [
+    {
+      "week": 1,
+      "topic": "Python & ETL",
+      "sql_problems": 18,
+      "project": "Superstore ETL Pipeline"
+    }
+  ],
+  "total_sql": 18,
+  "total_projects": 1
+}
