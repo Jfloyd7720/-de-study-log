@@ -1,19 +1,43 @@
 {
-  "last_updated": "2026-04-13T22:44:49.872Z",
-  "weeks_complete": [
+  "updated": "2026-04-14T06:55:14.640Z",
+  "engineer": "Jeff Floyd",
+  "role": "Data Engineer",
+  "location": "London",
+  "stats": {
+    "total_hours": 1.5,
+    "total_leetcode": 2,
+    "total_sessions": 2,
+    "skills_hours": {
+      "Python": 0.5,
+      "SQL": 1
+    }
+  },
+  "sessions": [
     {
-      "week": 1,
-      "topic": "Python & ETL",
-      "sql_problems": 18,
-      "project": "Superstore ETL Pipeline"
+      "date": "2026-04-14",
+      "skill": "Python",
+      "hours": 0.5,
+      "notes": "python warmup",
+      "leetcode": [
+        {
+          "topic": "recursion",
+          "count": 1,
+          "difficulty": "Medium"
+        }
+      ]
     },
     {
-      "week": 2,
-      "topic": "Advanced SQL",
-      "sql_problems": 25,
-      "project": "SQL Analytics Suite"
+      "date": "2026-04-14",
+      "skill": "SQL",
+      "hours": 1,
+      "notes": "sql warmup",
+      "leetcode": [
+        {
+          "topic": "Window Functions",
+          "count": 1,
+          "difficulty": "Medium"
+        }
+      ]
     }
-  ],
-  "total_sql": 43,
-  "total_projects": 2
+  ]
 }
