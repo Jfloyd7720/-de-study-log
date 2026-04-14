@@ -1,16 +1,20 @@
 # Jeff Floyd — Data Engineering Study Log
 
-Active training block · Jan–Mar 2025
+Data Engineer · London
 
-| Week | Topic | SQL Problems | Project | Status |
-|------|-------|-------------|---------|--------|
-| 1 | Python & ETL | 18 | Superstore ETL Pipeline | ✅ Complete |
-| 2 | Advanced SQL | 25 | SQL Analytics Suite | ✅ Complete |
-| 3 | Apache Airflow | — | — | ⬜ Pending |
-| 4 | PySpark | — | — | ⬜ Pending |
-| 5 | dbt + Cloud | — | — | ⬜ Pending |
-| 6 | End-to-End Project | — | — | ⬜ Pending |
-| 7 | Streaming Pipeline | — | — | ⬜ Pending |
+## Stats
+- **Total hours:** 1.5
+- **LeetCode solved:** 2
+- **Sessions:** 2
 
----
-*Auto-updated via portfolio · 13/04/2026*
+## Hours by Skill
+| Skill | Hours |
+|-------|-------|
+| SQL | 1.0h |
+| Python | 0.5h |
+
+## Recent Sessions
+- **2026-04-14** · Python · 0.5h · python warmup
+- **2026-04-14** · SQL · 1h · sql warmup
+
+*Updated: 14/04/2026, 07:55:15*
