@@ -1,18 +1,25 @@
 {
-  "updated": "2026-04-14T06:55:14.640Z",
+  "updated": "2026-04-14T17:29:31.251Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 1.5,
+    "total_hours": 6,
     "total_leetcode": 2,
-    "total_sessions": 2,
+    "total_sessions": 3,
     "skills_hours": {
-      "Python": 0.5,
+      "Python": 5,
       "SQL": 1
     }
   },
   "sessions": [
+    {
+      "date": "2026-04-14",
+      "skill": "Python",
+      "hours": 4.5,
+      "notes": "Day 1: Built ETL pipeline on 91k Met Police crime records. Extracted transformed loaded into SQLite. Found 69% of London crimes went unsolved from jan 2024 - march 2024",
+      "leetcode": []
+    },
     {
       "date": "2026-04-14",
       "skill": "Python",
