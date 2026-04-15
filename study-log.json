@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-15T09:07:22.836Z",
+  "updated": "2026-04-15T19:45:05.621Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 7,
-    "total_leetcode": 4,
+    "total_hours": 10,
+    "total_leetcode": 2,
     "total_sessions": 4,
     "skills_hours": {
-      "SQL": 2,
+      "SQL": 5,
       "Python": 5
     }
   },
@@ -16,15 +16,9 @@
     {
       "date": "2026-04-15",
       "skill": "SQL",
-      "hours": 1,
-      "notes": "sql warmup",
-      "leetcode": [
-        {
-          "topic": "Window Functions",
-          "count": 2,
-          "difficulty": "Medium"
-        }
-      ]
+      "hours": 4,
+      "notes": "SQL analysis on 71k Met Police records - window functions, CTEs, crime outcome analysis",
+      "leetcode": []
     },
     {
       "date": "2026-04-14",
