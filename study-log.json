@@ -1,18 +1,31 @@
 {
-  "updated": "2026-04-14T17:29:31.251Z",
+  "updated": "2026-04-15T09:07:22.836Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 6,
-    "total_leetcode": 2,
-    "total_sessions": 3,
+    "total_hours": 7,
+    "total_leetcode": 4,
+    "total_sessions": 4,
     "skills_hours": {
-      "Python": 5,
-      "SQL": 1
+      "SQL": 2,
+      "Python": 5
     }
   },
   "sessions": [
+    {
+      "date": "2026-04-15",
+      "skill": "SQL",
+      "hours": 1,
+      "notes": "sql warmup",
+      "leetcode": [
+        {
+          "topic": "Window Functions",
+          "count": 2,
+          "difficulty": "Medium"
+        }
+      ]
+    },
     {
       "date": "2026-04-14",
       "skill": "Python",
