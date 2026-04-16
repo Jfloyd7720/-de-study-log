@@ -1,18 +1,27 @@
 {
-  "updated": "2026-04-16T08:24:10.668Z",
+  "updated": "2026-04-16T09:21:18.986Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 13,
+    "total_hours": 14.5,
     "total_leetcode": 6,
-    "total_sessions": 7,
+    "total_sessions": 8,
     "skills_hours": {
-      "Python": 5.5,
-      "SQL": 7.5
+      "SQL": 9,
+      "Python": 5.5
     }
   },
   "sessions": [
+    {
+      "id": 1776331278712,
+      "date": "2026-04-16",
+      "skill": "SQL",
+      "hours": 1.5,
+      "notes": "Day 2: Window functions, RANK, DENSE_RANK, CTEs, conditional aggregates, crime outcome analysis on 71k Met Police records - follow up",
+      "week": 1,
+      "leetcode": []
+    },
     {
       "id": 1776327850430,
       "date": "2026-04-16",
