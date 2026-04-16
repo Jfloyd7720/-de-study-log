@@ -1,18 +1,27 @@
 {
-  "updated": "2026-04-16T08:17:53.646Z",
+  "updated": "2026-04-16T08:24:10.668Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 12.5,
+    "total_hours": 13,
     "total_leetcode": 6,
-    "total_sessions": 6,
+    "total_sessions": 7,
     "skills_hours": {
-      "SQL": 7.5,
-      "Python": 5
+      "Python": 5.5,
+      "SQL": 7.5
     }
   },
   "sessions": [
+    {
+      "id": 1776327850430,
+      "date": "2026-04-16",
+      "skill": "Python",
+      "hours": 0.5,
+      "notes": "python warmup",
+      "week": 1,
+      "leetcode": []
+    },
     {
       "id": 1776327473318,
       "date": "2026-04-16",
