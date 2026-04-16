@@ -1,23 +1,34 @@
 {
-  "updated": "2026-04-15T19:46:44.138Z",
+  "updated": "2026-04-16T08:17:53.646Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 12,
+    "total_hours": 12.5,
     "total_leetcode": 6,
-    "total_sessions": 5,
+    "total_sessions": 6,
     "skills_hours": {
-      "SQL": 7,
+      "SQL": 7.5,
       "Python": 5
     }
   },
   "sessions": [
     {
+      "id": 1776327473318,
+      "date": "2026-04-16",
+      "skill": "SQL",
+      "hours": 0.5,
+      "notes": "sql warmup",
+      "week": 1,
+      "leetcode": []
+    },
+    {
+      "id": 1776282403867,
       "date": "2026-04-15",
       "skill": "SQL",
       "hours": 2,
       "notes": "leetcodes",
+      "week": 1,
       "leetcode": [
         {
           "topic": "-",
@@ -27,24 +38,30 @@
       ]
     },
     {
+      "id": 1776282305181,
       "date": "2026-04-15",
       "skill": "SQL",
       "hours": 4,
       "notes": "SQL analysis on 71k Met Police records - window functions, CTEs, crime outcome analysis",
+      "week": 1,
       "leetcode": []
     },
     {
+      "id": 1776187770662,
       "date": "2026-04-14",
       "skill": "Python",
       "hours": 4.5,
       "notes": "Day 1: Built ETL pipeline on 91k Met Police crime records. Extracted transformed loaded into SQLite. Found 69% of London crimes went unsolved from jan 2024 - march 2024",
+      "week": 1,
       "leetcode": []
     },
     {
+      "id": 1776149714459,
       "date": "2026-04-14",
       "skill": "Python",
       "hours": 0.5,
       "notes": "python warmup",
+      "week": 1,
       "leetcode": [
         {
           "topic": "recursion",
@@ -54,10 +71,12 @@
       ]
     },
     {
+      "id": 1776149187349,
       "date": "2026-04-14",
       "skill": "SQL",
       "hours": 1,
       "notes": "sql warmup",
+      "week": 1,
       "leetcode": [
         {
           "topic": "Window Functions",
