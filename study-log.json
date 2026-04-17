@@ -1,18 +1,27 @@
 {
-  "updated": "2026-04-16T09:21:18.986Z",
+  "updated": "2026-04-17T16:19:27.583Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 14.5,
+    "total_hours": 20.5,
     "total_leetcode": 6,
-    "total_sessions": 8,
+    "total_sessions": 9,
     "skills_hours": {
-      "SQL": 9,
-      "Python": 5.5
+      "Python": 11.5,
+      "SQL": 9
     }
   },
   "sessions": [
+    {
+      "id": 1776442767135,
+      "date": "2026-04-17",
+      "skill": "Python",
+      "hours": 6,
+      "notes": "Built London weather pipeline - live API extraction, hourly data, SQLite storage, idempotent loading",
+      "week": 1,
+      "leetcode": []
+    },
     {
       "id": 1776331278712,
       "date": "2026-04-16",
