@@ -1,18 +1,27 @@
 {
-  "updated": "2026-04-17T16:19:27.583Z",
+  "updated": "2026-04-19T19:50:03.010Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 20.5,
+    "total_hours": 24.5,
     "total_leetcode": 6,
-    "total_sessions": 9,
+    "total_sessions": 10,
     "skills_hours": {
-      "Python": 11.5,
-      "SQL": 9
+      "SQL": 13,
+      "Python": 11.5
     }
   },
   "sessions": [
+    {
+      "id": 1776628202387,
+      "date": "2026-04-19",
+      "skill": "SQL",
+      "hours": 4,
+      "notes": "migrated crime pipeline to a real cloud Postgres database stored credentials securely with environment variables and made queries fast with indexes",
+      "week": 1,
+      "leetcode": []
+    },
     {
       "id": 1776442767135,
       "date": "2026-04-17",
