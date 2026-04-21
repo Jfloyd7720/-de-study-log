@@ -1,24 +1,24 @@
 {
-  "updated": "2026-04-19T19:50:03.010Z",
+  "updated": "2026-04-21T10:05:21.471Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 24.5,
+    "total_hours": 28.5,
     "total_leetcode": 6,
     "total_sessions": 10,
     "skills_hours": {
-      "SQL": 13,
-      "Python": 11.5
+      "Python": 19.5,
+      "SQL": 9
     }
   },
   "sessions": [
     {
-      "id": 1776628202387,
-      "date": "2026-04-19",
-      "skill": "SQL",
-      "hours": 4,
-      "notes": "migrated crime pipeline to a real cloud Postgres database stored credentials securely with environment variables and made queries fast with indexes",
+      "id": 1776765921000,
+      "date": "2026-04-21",
+      "skill": "Python",
+      "hours": 8,
+      "notes": "Built a crypto market ETL pipeline in Python that extracts live price data \nfor the top 50 coins from CoinGecko, transforms it with market signals \n(volume spike detection, ATH distance bucketing, daily range %), and loads \ntimestamped snapshots into a cloud Postgres database (Supabase). \nIncludes unit tests with pytest.",
       "week": 1,
       "leetcode": []
     },
