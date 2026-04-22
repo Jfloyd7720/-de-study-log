@@ -1,18 +1,28 @@
 {
-  "updated": "2026-04-21T10:05:21.471Z",
+  "updated": "2026-04-22T17:37:23.322Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 28.5,
+    "total_hours": 34.5,
     "total_leetcode": 6,
-    "total_sessions": 10,
+    "total_sessions": 11,
     "skills_hours": {
+      "dbt": 6,
       "Python": 19.5,
       "SQL": 9
     }
   },
   "sessions": [
+    {
+      "id": 1776879442987,
+      "date": "2026-04-22",
+      "skill": "dbt",
+      "hours": 6,
+      "notes": "building the analytical layer on top of raw crypto data using dbt — turning messy repeated snapshots into clean, queryable tables ready for webapp",
+      "week": 1,
+      "leetcode": []
+    },
     {
       "id": 1776765921000,
       "date": "2026-04-21",
