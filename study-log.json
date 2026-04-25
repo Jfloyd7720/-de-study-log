@@ -1,19 +1,28 @@
 {
-  "updated": "2026-04-22T17:37:23.322Z",
+  "updated": "2026-04-25T19:21:43.878Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 34.5,
+    "total_hours": 42.5,
     "total_leetcode": 6,
-    "total_sessions": 11,
+    "total_sessions": 12,
     "skills_hours": {
+      "Python": 27.5,
       "dbt": 6,
-      "Python": 19.5,
       "SQL": 9
     }
   },
   "sessions": [
+    {
+      "id": 1777144903406,
+      "date": "2026-04-25",
+      "skill": "Python",
+      "hours": 8,
+      "notes": "Buildiing live crypto dashboard that reads directly from Supabase mart tables and displays: \nCurrent prices and 24h change for all 50 coins\nVolume spike alerts\nMarket cap rankings",
+      "week": 1,
+      "leetcode": []
+    },
     {
       "id": 1776879442987,
       "date": "2026-04-22",
