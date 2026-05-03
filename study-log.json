@@ -1,19 +1,28 @@
 {
-  "updated": "2026-04-25T19:21:43.878Z",
+  "updated": "2026-05-03T21:00:17.784Z",
   "engineer": "Jeff Floyd",
   "role": "Data Engineer",
   "location": "London",
   "stats": {
-    "total_hours": 42.5,
+    "total_hours": 50.5,
     "total_leetcode": 6,
-    "total_sessions": 12,
+    "total_sessions": 13,
     "skills_hours": {
-      "Python": 27.5,
+      "Python": 35.5,
       "dbt": 6,
       "SQL": 9
     }
   },
   "sessions": [
+    {
+      "id": 1777842017461,
+      "date": "2026-05-03",
+      "skill": "Python",
+      "hours": 8,
+      "notes": "Built an end-to-end ELT pipeline tracking live cryptocurrency market data:\n\n- Python pipeline extracting top 50 coins from CoinGecko API with rate\n  limit handling, derived metrics (volume spike detection, ATH bucketing,\n  daily range %) and append-only loads to cloud Postgres (Supabase)\n- dbt analytical layer: staging view + mart tables for latest prices and\n  volume spike events, with schema tests and lineage documentation  \n- React dashboard consuming Supabase REST API directly, displaying live\n  prices, 24h/7d % changes, volume spike alerts and pipeline timestamp\n\nStack: Python · pandas · SQLAlchemy · dbt · Supabase (Postgres) · React",
+      "week": null,
+      "leetcode": []
+    },
     {
       "id": 1777144903406,
       "date": "2026-04-25",
